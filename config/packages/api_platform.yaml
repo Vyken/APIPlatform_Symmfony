@@ -1,0 +1,10 @@
+api_platform:
+  defaults:
+    pagination_client_enabled: true
+  title: 'API PlatformCompare'
+  description: 'API de comparaison de service de plateforme de streaming'
+  formats:
+    json:
+      mime_types: ['application/json']
+    html:
+      mime_types: ['text/html']  
